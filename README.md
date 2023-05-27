@@ -21,4 +21,4 @@ Rockbuster is a fictional movie rental company transitioning from a brick-and-mo
 + staff
 + store
 
-![instacart logo.](https://github.com/bruceramseyer/instacart/blob/main/instacart%20logo.jpg)
+![instacart_logo.](https://github.com/bruceramseyer/instacart/blob/main/instacart%20logo.jpg)
