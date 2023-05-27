@@ -1,8 +1,8 @@
 # INSTACART
-Career Foundry SQL analytics project for fictional movie rental company
+Career Foundry Python analytics project using fictional data for online grocery store. 
 
 ## Project Objective
-Rockbuster is a fictional movie rental company transitioning from a brick-and-mortar business model to an online video rental service. The management board needed data-driven answers from business intelligence to help with the launch strategy. The focus of the project was to look at movie revenues, rental duration, customer base, and geographical sales. 
+Intacart stakeholders needed analytics for customer purchasing behaviors in order to refine sales and marketing strategy. Key project deliverables included peak ordering times and days, price range groups, product popularity, and identifying trends for customers' loyalty status, region, and other demographics. 
 
 ## Data Tables
 + actor
